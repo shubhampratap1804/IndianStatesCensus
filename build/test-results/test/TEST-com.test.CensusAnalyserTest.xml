@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.CensusAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-14T18:55:03" hostname="DESKTOP-EN6GUKD" time="0.039">
+  <properties/>
+  <testcase name="givenStateCodeFileShouldBeOfSameTypeElseThrowCustomException()" classname="com.test.CensusAnalyserTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
